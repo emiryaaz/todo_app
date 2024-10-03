@@ -1,0 +1,7 @@
+{
+  "title" : "What is your daily tasks?",
+  "empty_task_list" : "Add a task.",
+  "add_task" : "Task's name",
+  "remove_task" : "This task was deleted",
+  "search_not_found" : "The task you're searching for doesn't exist"
+}
